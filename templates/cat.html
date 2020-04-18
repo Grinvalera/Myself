@@ -1,0 +1,17 @@
+{% extends "Main.html" %}
+{% block title %}
+Мой кот
+{% endblock %}
+{% block content %}
+    <div class = "fon4">
+    <h1><center>Рудик</center></h1>
+    {% for i in description %}
+        <p>{{ i.description }}</p>
+    {% endfor %}
+    {% for i in photo %}
+        <center>
+            <a href="{{ i.photo.url }}"><img src="{{ i.photo.url }}"></a>
+        </center>
+    {% endfor %}
+    </div>
+{% endblock %}

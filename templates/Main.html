@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'Main.css' %}">
+</head>
+<body>
+<div class = "fon1">
+    <h1>About Myself</h1>
+</div>
+ <nav class="container">
+    <ul>
+        <li class="nav-item"><a href="{%url 'home'%}" class="nav-link">Главная</a></li>
+        <li class="nav-item"><a href="{%url 'car'%}" class="nav-link">Моя машина</a></li>
+        <li class="nav-item"><a href="{%url 'company'%}" class="nav-link">Мои друзья</a></li>
+        <li class="nav-item"><a href="{%url 'cat'%}" class="nav-link">Мой кот</a></li>
+      </ul>
+ </nav>
+{% block content %}
+
+{% endblock %}
+</body>
+</html>

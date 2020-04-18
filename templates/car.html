@@ -1,0 +1,17 @@
+{% extends 'Main.html' %}
+{% block title %}
+Моя машина
+{% endblock %}
+{% block content %}
+    <div class = "fon3">
+        <h1><center>Mazda 6</center></h1>
+    {% for i in auto %}
+        <p>{{ i.description }}</p>
+    {% endfor %}
+    {% for i in auto_photo%}
+        <center>
+            <a href="{{ i.photo.url }}"><img src="{{ i.photo.url }}"></a>
+        </center>
+    {% endfor %}
+    </div>
+{% endblock %}

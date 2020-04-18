@@ -1,0 +1,10 @@
+{% extends 'Main.html' %}
+{% block content %}
+    <div class = "fon2">
+    {% for i in all_me %}
+        <h1><a href="{{ i.picture.url }}"><img src="{{ i.picture.url }}", height="55%", width="32%", alt="Картинка"></a>
+            {{ i.first_name }} {{ i.last_name }}</h1>
+        <p>{{ i.about_me }}</p>
+    {% endfor %}
+    </div>
+{% endblock %}

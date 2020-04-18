@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e9af299-3abd-477a-af2b-16819afc8394" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/car/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/migrations/0002_auto_20200416_2000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/migrations/0002_auto_20200418_1702.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/migrations/0002_auto_20200418_1702.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/migrations/0003_auto_20200418_1712.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/photo_2020-04-16_01-41-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-02_23-50-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-02_23-50-11_eb8elsC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-03_12-49-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-03_12-49-05_n9JV8C2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-04_19-32-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-04_19-32-08_hoCWSiP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-13_12-03-52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-13_12-03-52_scFEThq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-13_12-04-00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-13_12-04-00_lFpVwtD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_01-41-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_01-41-27_4cn22Ka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59 (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_3_pruviQM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_6xGrgYR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_6xGrgYR_0I2NB9r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_04-18-59_FKj0t6k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_21-14-41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-16_21-14-41_dD0sp2P.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_21-57-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_21-57-04_zV79rFV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_21-57-32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_21-57-32_PkPGXJv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_22-07-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_22-07-18_IHhkMyF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_22-07-34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/picture/photo_2020-04-18_22-07-34_Ceshh8M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/car.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/myself.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superbot/feedback/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_site/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_site/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_site/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_site/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orders/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/aiphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/apple_iphone_11_pro_64gb_midnight_green_1__2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/apple_iphone_11_pro_64gb_midnight_green_1__2_XlCuq9o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/honor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/huawey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/samsung.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_image/самсунг_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/aiphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/apple_iphone_11_pro_64gb_midnight_green_1__2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/honor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/huawey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/samsung.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/product_image/самсунг 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/frontend/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/frontend/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aaQ9YWdbXA6WnsOj92UYgxYpMo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/work" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/work" />
+      <recent name="$PROJECT_DIR$/company" />
+      <recent name="$PROJECT_DIR$/car" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="myself" type="Python.DjangoServer" factoryName="Django server">
+      <module name="myself" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e9af299-3abd-477a-af2b-16819afc8394" name="Default Changelist" comment="" />
+      <created>1586971073987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586971073987</updated>
+      <workItem from="1586971094372" duration="40887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
