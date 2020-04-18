@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e9af299-3abd-477a-af2b-16819afc8394" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore.save" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.save.1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/car/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/car/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/car/apps.py" afterDir="false" />
@@ -151,7 +153,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aaQ9YWdbXA6WnsOj92UYgxYpMo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
