@@ -23,6 +23,8 @@
       <change beforePath="$PROJECT_DIR$/../frontend/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../frontend/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myslef/myself/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myslef/myself/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../orders/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../orders/admin.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../orders/forms.py" beforeDir="false" />
@@ -135,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586971073987</updated>
-      <workItem from="1586971094372" duration="40899000" />
+      <workItem from="1586971094372" duration="42080000" />
     </task>
     <servers />
   </component>
